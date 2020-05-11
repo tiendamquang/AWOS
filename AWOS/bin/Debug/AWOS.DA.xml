@@ -1,0 +1,60 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AWOS.DA
+</name>
+</assembly>
+<members>
+<member name="T:AWOS.DA.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AWOS.DA.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AWOS.DA.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:AWOS.DA.SqlDataProvider.ExecuteNonQueryP(System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="_procedureName"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:AWOS.DA.SqlDataProvider.ExecuteNonQueryP(System.String,System.Object[])">
+ <summary>
+ 
+ </summary>
+ <param name="_procedureName"></param>
+ <param name="_parametersValue"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:AWOS.DA.SqlDataProvider.ExecuteNonQueryT(System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="_queryString"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:AWOS.DA.SqlDataProvider.ExecuteNonQueryT(System.String,System.Object[])">
+ <summary>
+ 
+ </summary>
+ <param name="_queryString"></param>
+ <param name="_parametersValue"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

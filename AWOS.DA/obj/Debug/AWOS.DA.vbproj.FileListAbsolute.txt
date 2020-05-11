@@ -1,0 +1,9 @@
+D:\AWOS\AWOS.DA\bin\Debug\AWOS.DA.dll
+D:\AWOS\AWOS.DA\bin\Debug\AWOS.DA.pdb
+D:\AWOS\AWOS.DA\bin\Debug\AWOS.DA.xml
+D:\AWOS\AWOS.DA\obj\Debug\AWOS.DA.Resources.resources
+D:\AWOS\AWOS.DA\obj\Debug\AWOS.DA.vbproj.GenerateResource.cache
+D:\AWOS\AWOS.DA\obj\Debug\AWOS.DA.vbproj.CoreCompileInputs.cache
+D:\AWOS\AWOS.DA\obj\Debug\AWOS.DA.dll
+D:\AWOS\AWOS.DA\obj\Debug\AWOS.DA.xml
+D:\AWOS\AWOS.DA\obj\Debug\AWOS.DA.pdb

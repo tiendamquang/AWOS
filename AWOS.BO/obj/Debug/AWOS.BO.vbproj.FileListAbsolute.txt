@@ -1,0 +1,14 @@
+D:\AWOS\AWOS.BO\bin\Debug\AWOS.BO.dll
+D:\AWOS\AWOS.BO\bin\Debug\AWOS.BO.pdb
+D:\AWOS\AWOS.BO\bin\Debug\AWOS.BO.xml
+D:\AWOS\AWOS.BO\bin\Debug\AWOS.DA.dll
+D:\AWOS\AWOS.BO\bin\Debug\AWOS.DA.pdb
+D:\AWOS\AWOS.BO\bin\Debug\AWOS.DA.xml
+D:\AWOS\AWOS.BO\obj\Debug\AWOS.BO.vbprojAssemblyReference.cache
+D:\AWOS\AWOS.BO\obj\Debug\AWOS.BO.Resources.resources
+D:\AWOS\AWOS.BO\obj\Debug\AWOS.BO.vbproj.GenerateResource.cache
+D:\AWOS\AWOS.BO\obj\Debug\AWOS.BO.vbproj.CoreCompileInputs.cache
+D:\AWOS\AWOS.BO\obj\Debug\AWOS.BO.vbproj.CopyComplete
+D:\AWOS\AWOS.BO\obj\Debug\AWOS.BO.dll
+D:\AWOS\AWOS.BO\obj\Debug\AWOS.BO.xml
+D:\AWOS\AWOS.BO\obj\Debug\AWOS.BO.pdb
