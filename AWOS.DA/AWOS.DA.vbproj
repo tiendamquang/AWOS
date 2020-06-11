@@ -67,6 +67,8 @@
   <ItemGroup>
     <Compile Include="Class1.vb" />
     <Compile Include="Component\clsRegistryHelper.vb" />
+    <Compile Include="Component\clsUserDA.vb" />
+    <Compile Include="Component\clsUserGroupDA.vb" />
     <Compile Include="Component\SqlDataProvider.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">

@@ -10,7 +10,6 @@ D:\AWOS\AWOS.DA\obj\Debug\AWOS.DA.pdb
 D:\AWOS\AWOS\AWOS.DA\bin\Debug\AWOS.DA.dll
 D:\AWOS\AWOS\AWOS.DA\bin\Debug\AWOS.DA.pdb
 D:\AWOS\AWOS\AWOS.DA\bin\Debug\AWOS.DA.xml
-D:\AWOS\AWOS\AWOS.DA\obj\Debug\AWOS.DA.vbprojAssemblyReference.cache
 D:\AWOS\AWOS\AWOS.DA\obj\Debug\AWOS.DA.Resources.resources
 D:\AWOS\AWOS\AWOS.DA\obj\Debug\AWOS.DA.vbproj.GenerateResource.cache
 D:\AWOS\AWOS\AWOS.DA\obj\Debug\AWOS.DA.vbproj.CoreCompileInputs.cache
