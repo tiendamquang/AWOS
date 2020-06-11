@@ -13,8 +13,11 @@ Public Class Form1
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Try
-            RegistryHelper.SaveSetting("CHSSystem", "IPServer", "10.100.100.235")
-            RegistryHelper.SaveSetting("CHSSystem", "Database", "AWOS")
+            RegistryHelper.SaveSetting("AWOSSystem", "IPServer", "192.168.2.14")
+            RegistryHelper.SaveSetting("AWOSSystem", "Database", "AWOS")
+
+
+
 
             'Dim objBO As clsUserBO = New clsUserBO()
             'Dim strUser As String = "admin"

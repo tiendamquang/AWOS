@@ -17,7 +17,7 @@ Public Class SqlDataProvider
     End Sub
 #Region "Private Methods"
     Public Shared Function GetConnectionString() As String
-        Dim _result As String = "Data Source=" & RegistryHelper.GetSetting("AWOS", "IPServer", "10.100.100.235").ToString() & ";Initial Catalog=" + RegistryHelper.GetSetting("AWOS", "Database", "AWOS").ToString() & ";UID=sa;PWD=alsb!!52019;"
+        Dim _result As String = "Data Source=" & RegistryHelper.GetSetting("AWOS", "IPServer", "192.168.2.14").ToString() & ";Initial Catalog=" + RegistryHelper.GetSetting("AWOS", "Database", "AWOS").ToString() & ";UID=sa;PWD=dicom@123@456;" 'dicom@123@456
         Return _result
     End Function
     Private Shared Sub AssignParameters(ByVal _cmd As SqlCommand, ByVal _cmdParameters As SqlParameter())
